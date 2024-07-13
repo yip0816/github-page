@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/github-page/static/css/main.0cebb8f8.css",
-    "main.js": "/github-page/static/js/main.3237377d.js",
+    "main.css": "/github-page/static/css/main.2c96b7c6.css",
+    "main.js": "/github-page/static/js/main.13ec6796.js",
     "static/js/453.ed3810f9.chunk.js": "/github-page/static/js/453.ed3810f9.chunk.js",
+    "static/media/No1.gif": "/github-page/static/media/No1.7f97eddab1a88db1dd47.gif",
+    "static/media/default.gif": "/github-page/static/media/default.718188cb6119e8a4de88.gif",
+    "static/media/No2.gif": "/github-page/static/media/No2.ab5401e2b3dee56bcfc5.gif",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/github-page/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/yes.gif": "/github-page/static/media/yes.45d516b95a4dfbb0a1b9.gif",
+    "static/media/No4.gif": "/github-page/static/media/No4.bea6b54f7d969bdcdfc5.gif",
     "static/media/fontawesome-webfont.eot": "/github-page/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/github-page/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/No3.gif": "/github-page/static/media/No3.70d98717b7b845f2ba36.gif",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/github-page/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/github-page/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/logo.svg": "/github-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/github-page/index.html",
-    "main.0cebb8f8.css.map": "/github-page/static/css/main.0cebb8f8.css.map",
-    "main.3237377d.js.map": "/github-page/static/js/main.3237377d.js.map",
+    "main.2c96b7c6.css.map": "/github-page/static/css/main.2c96b7c6.css.map",
+    "main.13ec6796.js.map": "/github-page/static/js/main.13ec6796.js.map",
     "453.ed3810f9.chunk.js.map": "/github-page/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cebb8f8.css",
-    "static/js/main.3237377d.js"
+    "static/css/main.2c96b7c6.css",
+    "static/js/main.13ec6796.js"
   ]
 }
